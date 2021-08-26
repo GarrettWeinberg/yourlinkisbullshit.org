@@ -4,8 +4,15 @@ body {
 }
 
 h1 {
+  text-align: center;
   padding-top: 3rem;
   padding-bottom: 3rem;
   font-size: 4rem;
   line-height: 4.25rem;
+}
+
+.dontate {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
